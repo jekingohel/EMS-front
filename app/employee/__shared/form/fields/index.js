@@ -1,0 +1,7 @@
+export { default as EmployeeFirstName } from "./first-name"
+export { default as EmployeeMiddleName } from "./middle-name"
+export { default as EmployeeLastName } from "./last-name"
+export { default as EmployeeCompany } from "./company"
+export { default as EmployeeDepartment } from "./department"
+export { default as EmployeePhone } from "./phone"
+export { default as EmployeeEmail } from "./email"
